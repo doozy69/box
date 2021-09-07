@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MyLibrary.Tests
+build_property.ProjectDir = D:\c#\box\MyLibrary\MyLibrary.Tests\
