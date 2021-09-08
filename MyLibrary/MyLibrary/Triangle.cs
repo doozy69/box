@@ -15,7 +15,7 @@ namespace MyLibrary
             sideB = b;
             sideC = c;
         }
-        public override double Square()
+        public double Square()
         {
             double p = (sideA + sideB + sideC) / 2f;
             double area = Math.Round(Math.Sqrt(p * (p - sideA) * (p - sideB) * (p - sideC)), 2);
